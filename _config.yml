@@ -8,12 +8,13 @@ username: Max Lepin
 user_title : Full-Stack Software Developer
 user_description:
 
- "Hi ! Welcome to my personal website.<br><br>
+    "Hi ! Welcome to my personal website.<br><br>
 
-I'm a software developer with more than four years of professional work in the field of IT. <br>
+    I'm a software developer from Belgium with more than three years of professional work in the field of IT. <br>
 
-I've gained solid experience in software design, testing, learning and practicing the industry standards,
- collaboration and successful team-working.
+    I've gained solid experience in software design, testing, learning and practicing the industry standards,
+    collaboration and successful team-working."
+    
  
 email: max.lepin@outlook.com
 twitter_username: lorem_ipsum
@@ -23,8 +24,6 @@ gplus_username:  lorem_ipsum
 #Permalink : https://jekyllrb.com/docs/permalinks/
 permalink: /:year/:title
 
-# Google-analytics
-google-analytics:
-  id: ""
+
 
 exclude: ['package.json', 'src' , 'node_modules']
