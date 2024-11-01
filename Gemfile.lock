@@ -12,7 +12,6 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.0)
     ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86_64-darwin)
     forwardable-extended (2.6.0)
     google-protobuf (4.27.3)
       bigdecimal
@@ -84,6 +83,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   webrick (~> 1.7)
+
+RUBY VERSION
+   ruby 3.3.5p100
 
 BUNDLED WITH
    2.3.15
