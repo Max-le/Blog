@@ -5,18 +5,17 @@ description: My personal website
 url: https://maxle.netlify.app # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 # User settings
 username: Max Lepin
-user_title : Full-Stack Software Developer
+user_title : A.I. Software Developer
 user_description:
 
     "Hi ! Welcome to my website.<br>
 
     I'm a software developer from Belgium.<br>
 
-    I've gained solid experience in software design, testing, applying the industry standards,
-    collaboration and successful team-working."
+    I use AI to code better and faster. I integrate AI to projects. Check examples below 🙂"
     
  
-email: max.lepin@outlook.com
+email: maxlepin@icloud.com
 twitter_username: lorem_ipsum
 github_username:  Max-le
 gplus_username:  lorem_ipsum

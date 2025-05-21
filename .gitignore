@@ -6,3 +6,6 @@ yarn.lock
 
 assets/css/main.css
 _posts/.~2020-09-11-create-chrome-extension.md
+.DS_Store
+assets/.DS_Store
+src/.DS_Store
