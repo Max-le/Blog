@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Max Lepin
+author: Max L.
 title : "Create & publish your Chrome extension"
 tags: [chrome, google, javascript, maps, trip, "cost-saving"]
 ---

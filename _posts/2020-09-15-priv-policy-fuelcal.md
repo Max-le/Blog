@@ -1,6 +1,6 @@
 ---
 layout: privacypolicy
-author: Max Lepin
+author: Max L.
 title : "Privacy Policy for Fuel Calculator"
 tags: [privacy, data]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Max Lepin
+author: Max L.
 tags: [XTerm.js]
 title: "Cool trick : show a terminal emulator in your browser"
 ---

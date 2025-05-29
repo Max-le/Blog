@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Max Lepin
+author: Max L.
 tags: [languages, translation, linguistics, python, Flask]
 title: "Word translation with Wiktionary"
 ---
